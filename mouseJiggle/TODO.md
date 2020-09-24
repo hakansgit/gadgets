@@ -1,0 +1,1 @@
+- [ ] Add timer mode (runs for specified amount of time)
